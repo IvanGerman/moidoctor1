@@ -37,9 +37,12 @@ h6 {
 
 html,
 body {
-  font-size: 14px;
   background-color: #ffffff;
   font-family: Arial, sans-serif;
+}
+
+body {
+  width: 100%;
 }
 
 .wrapper {
@@ -69,6 +72,7 @@ body {
 .banner p {
   text-align: center;
   margin-top: 0.7vh;
+  font-size: 0.9vw;
 }
 
 .p1 {
